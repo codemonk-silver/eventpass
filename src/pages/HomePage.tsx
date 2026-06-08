@@ -33,7 +33,7 @@ function HeroSection() {
           <motion.p variants={heroChild} className="text-label uppercase tracking-[0.15em] text-gold mb-6">
             Premium Entertainment Tickets
           </motion.p>
-          <motion.h1 variants={heroChild} className="text-hero-display font-display font-bold text-ivory max-w-[900px] mx-auto" style={{ textShadow: '0 4px 30px rgba(0,0,0,0.5)' }}>
+          <motion.h1 variants={heroChild} className="text-hero-display leading-20 font-display font-bold text-ivory max-w-[900px] mx-auto" style={{ textShadow: '0 4px 30px rgba(0,0,0,0.5)' }}>
             Discover Extraordinary Events
           </motion.h1>
           <motion.p variants={heroChild} className="text-body-lg text-ash mt-5 max-w-[560px] mx-auto">
